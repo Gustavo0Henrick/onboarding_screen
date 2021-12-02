@@ -1,2 +1,2 @@
 # onboarding_screen
-A simple and animated onboarding screen demo 
+A simple onboarding screen demo 
